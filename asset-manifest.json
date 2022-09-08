@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/VG-app/static/css/main.a404ca43.chunk.css",
+    "main.js": "/VG-app/static/js/main.c2cfc952.chunk.js",
+    "main.js.map": "/VG-app/static/js/main.c2cfc952.chunk.js.map",
+    "runtime-main.js": "/VG-app/static/js/runtime-main.d4479443.js",
+    "runtime-main.js.map": "/VG-app/static/js/runtime-main.d4479443.js.map",
+    "static/js/2.8ee2b80c.chunk.js": "/VG-app/static/js/2.8ee2b80c.chunk.js",
+    "static/js/2.8ee2b80c.chunk.js.map": "/VG-app/static/js/2.8ee2b80c.chunk.js.map",
+    "index.html": "/VG-app/index.html",
+    "precache-manifest.06fe3f61ffa6c1002504837d685bc7cc.js": "/VG-app/precache-manifest.06fe3f61ffa6c1002504837d685bc7cc.js",
+    "service-worker.js": "/VG-app/service-worker.js",
+    "static/css/main.a404ca43.chunk.css.map": "/VG-app/static/css/main.a404ca43.chunk.css.map",
+    "static/js/2.8ee2b80c.chunk.js.LICENSE.txt": "/VG-app/static/js/2.8ee2b80c.chunk.js.LICENSE.txt",
+    "static/media/chain.png": "/VG-app/static/media/chain.a0ec82a2.png",
+    "static/media/main.jpg": "/VG-app/static/media/main.d66d3678.jpg",
+    "static/media/threadniddle.jpg": "/VG-app/static/media/threadniddle.6e83bb34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4479443.js",
+    "static/js/2.8ee2b80c.chunk.js",
+    "static/css/main.a404ca43.chunk.css",
+    "static/js/main.c2cfc952.chunk.js"
+  ]
+}
